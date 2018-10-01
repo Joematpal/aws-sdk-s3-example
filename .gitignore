@@ -1,0 +1,3 @@
+bin/
+s3_to_sftp
+*/*.csv
